@@ -16,8 +16,8 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94726357671",
-  SUDO_NUMBERS : "94726357671",
+  OWNER_NUMBER: "94763868246",
+  SUDO_NUMBERS : "94763868246",
   OWNER_NAME: "『 🇲 🇷  🇲 🇦 🇱 🇮 🇸 🇭 🇦  』",
   BOT_NAME : "✺🄳🄴🄽🅄🅆🄰🄽-🄼🄳✺",
   ZUSYCO_FILE : "✺🄳🄴🄽🅄🅆🄰🄽-🄼🄳✺",
