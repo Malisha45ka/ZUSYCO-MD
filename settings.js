@@ -22,8 +22,8 @@ module.exports = {
   BOT_NAME : "✺🄳🄴🄽🅄🅆🄰🄽-🄼🄳✺",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
-    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
+    ALIVE: 'blob:https://web.whatsapp.com/f79fbc5a-5899-46df-a289-02de1f433d5c',
+    WELCOME: 'blob:https://web.whatsapp.com/f79fbc5a-5899-46df-a289-02de1f433d5c',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
   STOP_SEND : {
