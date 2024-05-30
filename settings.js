@@ -18,8 +18,8 @@ Creator : @darkmakerofc , @mr-nima-x
 module.exports = {
   OWNER_NUMBER: "94726357671",
   SUDO_NUMBERS : "94726357671",
-  OWNER_NAME: "『 MR Malisha 』",
-  BOT_NAME : "M R:M A L I S H A",
+  OWNER_NAME: "『 🇲 🇷  🇲 🇦 🇱 🇮 🇸 🇭 🇦  』",
+  BOT_NAME : "✺🄳🄴🄽🅄🅆🄰🄽-🄼🄳✺",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -55,7 +55,7 @@ module.exports = {
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : true,
-  OWNER_REACT : '🤵‍♂️',
+  OWNER_REACT : '❤️',
   AUTO_BGM : true,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
